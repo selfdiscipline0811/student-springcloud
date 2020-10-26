@@ -27,8 +27,7 @@ eureka:
       defaultZone: http://localhost:7000/eureka    #/eureka为内部通信的地址，在浏览器中访问时，不需要加此地址
   instance:
     instance-id: provider-user-8000                #定义微服务的名称，多个服务id必须不同
-    prefer-ip-address: true                        #是否显示IP和端口
-
+    prefer-ip-address: false                        #是否显示IP和端口
 ip:10.42.1.30
 
   
