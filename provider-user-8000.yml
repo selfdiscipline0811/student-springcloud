@@ -30,4 +30,3 @@ eureka:
     prefer-ip-address: true                        #是否显示IP和端口
 
 #test rebase again
-#A
