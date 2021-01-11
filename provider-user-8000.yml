@@ -29,6 +29,13 @@ eureka:
     instance-id: provider-user-8000                #定义微服务的名称，多个服务id必须不同
     prefer-ip-address: true                        #是否显示IP和端口
 
-#test rebase again
+
+#test rebase again work
 #A
+#B
 #C
+#D
+#E
+#F
+#G
+#H
